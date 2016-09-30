@@ -8,6 +8,8 @@ Please suggest improvements! I am by no means a professional pythoner.
 
 - Python
 - Geocoded collision data with the following fields:
+  - Involvement of alcohol
+  - Distance of the collision from the intersection
   - Movement preceding the collision for each party
   - Direction of travel for each party
 - Geocoded intersections
@@ -20,6 +22,8 @@ Please suggest improvements! I am by no means a professional pythoner.
 3. For the collision data, filter out collisions involving alcohol.
 
 ### Process Diagram
+
+
 
 
 ![Signal Warrant Process Diagram](https://github.com/black-tea/VisionZero/blob/master/NewSignals/HSIP_CityWide_SignalWarrant_portrait.png)
