@@ -2,7 +2,7 @@
 
 This is a collection of all scripts related to the Vision Zero program in Los Angeles. 
 
-### NewSignal
+### NewSignals
 
 The purpose of this project was to identify candidate locations for new signals in the City of Los Angeles, based on safety warrant criteria outlined in the CA MUTCD. 
 
