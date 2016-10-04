@@ -2,7 +2,11 @@
 
 #### This script counts of the number of collisions involving L or U Turns (for each direction)
 #### and appends the count to the attribute table of the Signalized Intersection Feature Class
-#### with an Update Cursor
+#### with an Update Cursor.
+
+#### Note that the process diagram includes looping through each party associated with a collision.
+#### In this script, we had already joined the party table to the collision table, and subset out
+#### collisions that did not involve a left or U-Turn.
 
 import arcpy
 from arcpy import env
