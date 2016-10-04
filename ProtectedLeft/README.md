@@ -18,6 +18,7 @@ Please suggest improvements! I am by no means a professional pythoner.
 1. First assign all collisions the unique ID of the nearest intersection. The end result should be an additional field in the collisions table that has the unique ID for the related intersection. This script gives more detail on our process at LADOT.
 2. For the intersection data, subset out those that are not signalized.
 3. For the collision data, filter for collisions involving left or u-turns. Also, remove those involving alcohol.
+4. This project was focused only on our most recent year of available data (2013) so we removed those before that year. If you would like to do a multi-year search, see the Signalized Safety Warrant Project for a method to aggregate by year and rank by most recent.
 
 ### Process Diagram
 
