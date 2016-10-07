@@ -19,4 +19,3 @@ Please suggest improvements! I am by no means a professional pythoner.
 
 ### Process Diagram
 
-![Left Turn Warrant Process Diagram](https://github.com/black-tea/VisionZero/blob/master/ProtectedLeft/HSIP_CityWide_LeftTurn.png)
