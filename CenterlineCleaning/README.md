@@ -7,7 +7,7 @@ Please suggest improvements! I am by no means a professional pythoner.
 ### Requirements
 
 - Python
-- Centerline File
+- [Centerline File] (http://geohub.lacity.org/datasets/d3cd48afaacd4913b923fd98c6591276_36)
 - Node/Intersection File
 - This script uses the cursor functions within ArcPy, but you could reformat it to match the way your data is stored.
 
