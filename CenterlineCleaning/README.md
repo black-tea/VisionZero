@@ -1,17 +1,15 @@
 # Centerline and Intersection Data Cleaning
 
-The Bureau of Street Engineering currently provides the most comprehensive street network for the City of Los Angeles. This street centerline file, and the intersection nodes generated from it, serve as the foundation for the City's data-driven approach to eliminating traffic deaths by 2025.   
+The Bureau of Street Engineering currently provides the most comprehensive street network for the City of Los Angeles. This street centerline file, and the intersection nodes generated from it, serve as the foundation for the City's data-driven approach to eliminating traffic deaths by 2025. The Department of Transporation used this python script (and manual checking) to make sure the data was well prepared for analysis.
 
 Please suggest improvements! I am by no means a professional pythoner.
 
 ### Requirements
 
 - Python
-- Geocoded collision data with the following fields:
-  - Movement preceding the collision for each party
-  - Direction of travel for each party
-- Geocoded intersections
-- This script uses the arcpy cursor functions within Arcmap, but you could reformat it to match the way your data is stored.
+- Centerline File
+- Node/Intersection File
+- This script uses the cursor functions within ArcPy, but you could reformat it to match the way your data is stored.
 
 ### Preparation
 
