@@ -22,8 +22,8 @@ Please suggest improvements! I am by no means a professional pythoner.
   - [Party Table] (http://geohub.lacity.org/datasets/8cfe25a12dca4826b6a311470c76f1ea_1)
 - CSV table listing the corridor ID, centerline segment IDs, and travel directions of the segment (example below)
 
-     | Corridor ID   | BOE Segment ID| Dir   |
-     | ------------- |---------------| ------|
-     | 1             | right-aligned | $1600 |
-     | 1             | centered      |   $12 |
-     | 1             | are neat      |    $1 |
+| Corridor ID   | BOE Segment ID| Dir   |
+| ------------- |---------------| ------|
+| 1             | right-aligned | $1600 |
+| 1             | centered      |   $12 |
+| 1             | are neat      |    $1 |
