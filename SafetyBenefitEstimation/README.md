@@ -22,22 +22,22 @@ Please suggest improvements! I am by no means a professional pythoner.
   - [Party Table] (http://geohub.lacity.org/datasets/8cfe25a12dca4826b6a311470c76f1ea_1)
 - CSV table listing the corridor ID(s), centerline segment IDs, and travel directions of the segment (example below)
 
->   | Corridor ID   | BOE Segment ID| Dir   |
->   | ------------- |---------------| ------|
->   | 1             | 2098          | E,W   |
->   | 1             | 4643          | E,W   |
->   | 1             | 5325          | E,W   |
->   | 1             | 7135          | E,W   |
->   | 1             | 12095         | E,W   |
+> | Corridor ID   | BOE Segment ID| Dir   |
+> | ------------- |---------------| ------|
+> | 1             | 2098          | E,W   |
+> | 1             | 4643          | E,W   |
+> | 1             | 5325          | E,W   |
+> | 1             | 7135          | E,W   |
+> | 1             | 12095         | E,W   |
   
 - another CSV table listing the corridor ID(s) and centerline intersection IDs (example below)
 
-| Corridor ID   | BOE Intersection ID|
-| ------------- |--------------------|
-| 1             | 96407              |
-| 1             | 99928              |
-| 1             | 110461             |
-| 1             | 117460             |
-| 1             | 117487             |
+> | Corridor ID   | BOE Intersection ID|
+> | ------------- |--------------------|
+> | 1             | 96407              |
+> | 1             | 99928              |
+> | 1             | 110461             |
+> | 1             | 117460             |
+> | 1             | 117487             |
 
 
