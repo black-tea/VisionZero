@@ -21,6 +21,7 @@ Please suggest improvements! I am by no means a professional pythoner.
   - [Collision Table] (http://geohub.lacity.org/datasets/bed43aa2945a47b18ae888246712ccb1_0)
   - [Party Table] (http://geohub.lacity.org/datasets/8cfe25a12dca4826b6a311470c76f1ea_1)
 - CSV table listing the corridor ID, centerline segment IDs, and directions of the segment organized as follows:
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
