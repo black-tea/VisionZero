@@ -20,10 +20,10 @@ Please suggest improvements! I am by no means a professional pythoner.
 - SWITRS-formatted collision data including the following tables:
   - [Collision Table] (http://geohub.lacity.org/datasets/bed43aa2945a47b18ae888246712ccb1_0)
   - [Party Table] (http://geohub.lacity.org/datasets/8cfe25a12dca4826b6a311470c76f1ea_1)
-- CSV table listing the corridor ID, centerline segment IDs, and directions of the segment organized as follows:
+- CSV table listing the corridor ID, centerline segment IDs, and travel directions of the segment (example below)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Corridor ID   | BOE Segment ID| Dir   |
+| ------------- |---------------| ------|
+| 1             | right-aligned | $1600 |
+| 1             | centered      |   $12 |
+| 1             | are neat      |    $1 |
