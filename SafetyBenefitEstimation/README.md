@@ -22,9 +22,6 @@ Please suggest improvements! I am by no means a professional pythoner.
   - [Party Table] (http://geohub.lacity.org/datasets/8cfe25a12dca4826b6a311470c76f1ea_1)
 - CSV table listing the corridor ID(s), centerline segment IDs, and travel directions of the segment (example below)
 
-<dl>
-<dt>hello</dt>
-  
 | Corridor ID   | BOE Segment ID| Dir   |
 | ------------- |---------------| ------|
 | 1             | 2098          | E,W   |
@@ -33,8 +30,6 @@ Please suggest improvements! I am by no means a professional pythoner.
 | 1             | 7135          | E,W   |
 | 1             | 12095         | E,W   |
   
-
-</dl>
 - another CSV table listing the corridor ID(s) and centerline intersection IDs (example below)
 
 | Corridor ID   | BOE Intersection ID|
@@ -45,12 +40,4 @@ Please suggest improvements! I am by no means a professional pythoner.
 | 1             | 117460             |
 | 1             | 117487             |
 
-<center>
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-</center>
