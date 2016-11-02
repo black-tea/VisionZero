@@ -14,3 +14,15 @@ Please suggest improvements! I am by no means a professional pythoner.
   - Direction of travel for each party
 - A geocoded network that includes [segments] (http://geohub.lacity.org/datasets/d3cd48afaacd4913b923fd98c6591276_36) and [intersections] (http://geohub.lacity.org/datasets/0372aa1fb42a4e29adb9caadcfb210bb_9).
 - This script uses the arcpy cursor functions within Arcmap, but you could reformat it to match the way your data is stored.
+
+### Input
+
+- SWITRS-formatted collision data including the following tables:
+  - [Collision Table] (http://geohub.lacity.org/datasets/bed43aa2945a47b18ae888246712ccb1_0)
+  - [Party Table] (http://geohub.lacity.org/datasets/8cfe25a12dca4826b6a311470c76f1ea_1)
+- CSV table listing the corridor ID, centerline segment IDs, and directions of the segment organized as follows:
+  - | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
