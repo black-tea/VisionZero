@@ -10,6 +10,7 @@ Please suggest improvements! I am by no means a professional pythoner.
 
 - Python
 - Geocoded collision data with the following fields:
+  - Party type
   - Movement preceding the collision for each party
   - Direction of travel for each party
 - A geocoded network that includes [segments] (http://geohub.lacity.org/datasets/d3cd48afaacd4913b923fd98c6591276_36) and [intersections] (http://geohub.lacity.org/datasets/0372aa1fb42a4e29adb9caadcfb210bb_9).
