@@ -16,6 +16,11 @@ Please suggest improvements! I am by no means a professional pythoner.
 - A geocoded network that includes [segments] (http://geohub.lacity.org/datasets/d3cd48afaacd4913b923fd98c6591276_36) and [intersections] (http://geohub.lacity.org/datasets/0372aa1fb42a4e29adb9caadcfb210bb_9).
 - This script uses the arcpy cursor functions within Arcmap, but you could reformat it to match the way your data is stored.
 
+### Pre-Script Preparation 
+
+1. First assign all collisions the unique IDs of the nearest segment and intersection. The end result should be two additional fields in the collisions table that has the unique IDs for the related intersection. This script gives more detail on our process at LADOT.
+2. Each corridor will include a number of segments and intersections. For each corridor that will be analyzed, gather the IDs for all those segments and intersections in each corridor. In our case, we formatted it into a csv file (see below for detail).
+
 ### Script Input
 
 - SWITRS-formatted collision data including the following tables:
