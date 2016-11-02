@@ -18,7 +18,7 @@ Please suggest improvements! I am by no means a professional pythoner.
 ### Script Input
 
 - SWITRS-formatted collision data including the following tables:
-  - [Collision Table] (http://geohub.lacity.org/datasets/bed43aa2945a47b18ae888246712ccb1_0)
+  - [Collision Table] (http://geohub.lacity.org/datasets/bed43aa2945a47b18ae888246712ccb1_0) that includes a field with the IDs of the nearest intersection and segments
   - [Party Table] (http://geohub.lacity.org/datasets/8cfe25a12dca4826b6a311470c76f1ea_1)
 - CSV table listing the corridor ID(s), centerline segment IDs, and travel directions of the segment (example below)
 
