@@ -8,16 +8,12 @@ from collections import defaultdict
 
 # Inputs
 env.workspace = "Z:/VisionZero/GIS/Projects/PrioritizationCorridors/data/RoadDietStats.gdb"
-UnSigInt = "UnSigInt_Outside3miBuffer"
 
 Segment_Table = "Z:/VisionZero/GIS/Projects/PrioritizationCorridors/data/segment_table.csv"
 Intersection_Table = "Z:/VisionZero/GIS/Projects/PrioritizationCorridors/data/int_table.csv"
 
 Collisions = "SWITRS2009_to_2013"
 Parties = "Collisions2009to2013PartiesJoin"
-
-# Output
-outpath = "Z:/VisionZero/GIS/Projects/PrioritizationCorridors/data/potential_signals.csv"
 
 ##### Prep Function #####
 def csvTableToList(seg_csv, int_csv):
