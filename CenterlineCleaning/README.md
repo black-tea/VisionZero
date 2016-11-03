@@ -19,3 +19,4 @@ Please suggest improvements! I am by no means a professional pythoner.
 
 ### Process Diagram
 
+![Signal Warrant Process Diagram](https://github.com/black-tea/VisionZero/blob/master/NewSignals/HSIP_CityWide_SignalWarrant_portrait.png)
