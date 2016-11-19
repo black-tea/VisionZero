@@ -46,4 +46,7 @@ Please suggest improvements! I am by no means a professional pythoner.
 > | 1             | 117460             |
 > | 1             | 117487             |
 
+### Process Diagram
+
+![Safety Benefit Flowchart Diagram](https://github.com/black-tea/VisionZero/blob/master/CenterlineCleaning/ESRI_BuildDatabase.png)
 
