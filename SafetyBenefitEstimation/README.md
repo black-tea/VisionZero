@@ -48,5 +48,5 @@ Please suggest improvements! I am by no means a professional pythoner.
 
 ### Process Diagram
 
-![Safety Benefit Flowchart Diagram](https://github.com/black-tea/VisionZero/blob/master/CenterlineCleaning/ESRI_BuildDatabase.png)
+![Safety Benefit Flowchart Diagram](https://github.com/black-tea/VisionZero/blob/master/SafetyBenefitEstimation/SafetyBenefitFlowchart.png)
 
