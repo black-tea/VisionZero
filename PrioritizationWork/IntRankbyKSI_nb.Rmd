@@ -12,10 +12,7 @@ It also helped that by this time, we also had each collision already assigned to
 
 ```{r}
 # load libraries
-library(sf, quietly = TRUE, warn.conflicts = FALSE)
-library(dplyr, quietly = TRUE, warn.conflicts = FALSE)
-library(leaflet, quietly = TRUE, warn.conflicts = FALSE)
-library(geosphere, quietly = TRUE, warn.conflicts = FALSE)
+library(dplyr)
 
 # import data
 bss <- st_read("Data/Street_Pavement_Condition.shp",quiet=TRUE)
