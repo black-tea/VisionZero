@@ -1,6 +1,6 @@
 # VisionZero
 
-This is a collection of all scripts related to the Vision Zero program in Los Angeles. A big thank you to [@devmorris] (https://github.com/devmorris) for getting us started here in Los Angeles. For an overview of how these scripts relate to Vision Zero work, see the paper [here](https://github.com/black-tea/black-tea.github.io/blob/master/documents/TRB2017_VisionZeroBeyond_Paper.pdf).
+This is a collection of all scripts related to the Vision Zero program in Los Angeles. A big thank you to [@devmorris](https://github.com/devmorris) for getting us started here in Los Angeles. For an overview of how these scripts relate to Vision Zero work, see the paper [here](https://github.com/black-tea/black-tea.github.io/blob/master/documents/TRB2017_VisionZeroBeyond_Paper.pdf).
 
 ### NewSignals
 
